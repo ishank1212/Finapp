@@ -71,8 +71,8 @@ export const feedback = [
     id: "feedback-2",
     content:
       "great app, paying dues of credit card was never that much easy and fast. few more rewarding features also available there like showing credit score, can easily pay rent, getting cashback whenever paying cc dues. lots more. i really loves cred.",
-    name: "sanjeev kataria",
-    title: "Consultant",
+    name: "Shashwat Singh",
+    title: "Randi of the year",
     img: people02,
   },
   {
